@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [http://guuslieben.nl](http://guuslieben.nl)
 
 <p align="center"> 
-  ![image](https://github.com/GuusLieben/GuusLieben/blob/master/dino.gif)
+  <img src="https://github.com/GuusLieben/GuusLieben/blob/master/dino.gif" alt="image" /> 
   <img src="https://github-readme-stats.vercel.app/api?username=guuslieben&show_icons=true" alt="guuslieben" /> 
 </p>
 
