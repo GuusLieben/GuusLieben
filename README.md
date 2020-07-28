@@ -5,7 +5,10 @@
 
 - 👨‍💻 All of my projects are available at [http://guuslieben.nl](http://guuslieben.nl)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=guuslieben&show_icons=true" alt="guuslieben" /> </p>
+<p align="center"> 
+  ![image](https://github.com/GuusLieben/GuusLieben/blob/master/dino.gif)
+  <img src="https://github-readme-stats.vercel.app/api?username=guuslieben&show_icons=true" alt="guuslieben" /> 
+</p>
 
 <p align="center">
 <a href="https://twitter.com/guuslieben" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="guuslieben" height="20" width="20" /></a>
