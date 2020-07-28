@@ -7,7 +7,6 @@
 
 <p align="center"> 
   <img src="https://github.com/GuusLieben/GuusLieben/blob/master/dino.gif" alt="image" /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=guuslieben&show_icons=true" alt="guuslieben" /> 
 </p>
 
 <p align="center">
