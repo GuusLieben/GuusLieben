@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guus</h1>
 <h3 align="center">I-B student at Avans University, and intern at Cost Engineering</h3>
 
-- 🔭 I’m currently working on [a cross-platform plugin framework, written in Java and Kotlin](https://github.com/GuusLieben/DarwinServer/tree/api-3.0-1.12.2-kj)
+- 🔭 I’m currently working on several projects, want to know more? Send me a message!
 
 - 👨‍💻 All of my projects are available at [http://guuslieben.nl](http://guuslieben.nl)
 
