@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on several projects, want to know more? Send me a message!
 
 - 👨‍💻 All of my projects are available at [http://guuslieben.nl](http://guuslieben.nl)
+- 🏫 Curious about my work for the Avans University of Applied Sciences? See [@LiebenGuus](https://github.com/LiebenGuus)
 
 <p align="center"> 
   <img src="https://github.com/GuusLieben/GuusLieben/blob/master/dino.gif" alt="image" /> 
