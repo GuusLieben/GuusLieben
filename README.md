@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Guus</h1>
-<h3 align="center">BSc Computer Science student at Avans University, and software engineer at Cost Engineering</h3>
+<h3 align="center">Open-source software engineer</h3>
 <div align="center">
 
-<p>🔭 I’m currently working on several projects, want to know more? Send me a message!</p>
+<p>🔭 I’m currently working on several projects, primarily on <a href="https://github.com/Dockbox-OSS/Hartshorn">Hartshorn</a>, want to know more? Send me a message!</p>
   <p>👨‍💻 All of my projects are available at <a href="http://guuslieben.nl" target="_blank">http://guuslieben.nl</a></p>
 
 <hr>
