@@ -1,15 +1,35 @@
-<h1 align="center">Hi 👋, I'm Guus</h1>
-<h3 align="center">Open-source software engineer</h3>
-<div align="center">
+# Hi 👋, I'm Guus
+#### Open-source software engineer
 
-<p>🔭 I’m currently working on several projects, primarily on <a href="https://github.com/Dockbox-OSS/Hartshorn">Hartshorn</a>, want to know more? Send me a message!</p>
-  <p>👨‍💻 All of my projects are available at <a href="http://guuslieben.nl" target="_blank">http://guuslieben.nl</a></p>
+----
 
-<hr>
-<img src="https://metrics.lecoq.io/guuslieben">
-</div>
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=36465D&logoColor=AAA&style=flat-square)
+![java](https://img.shields.io/static/v1?logo=openjdk&label=&message=Java&color=438eaa&logoColor=FFF&style=flat-square&link=)
+![kotlin](https://img.shields.io/static/v1?logo=kotlin&label=&message=Kotlin&color=438eaa&logoColor=FFF&style=flat-square)
+![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=Typescript&color=438eaa&logoColor=FFF&style=flat-square)
+![csharp](https://img.shields.io/static/v1?logo=csharp&label=&message=C%23&color=438eaa&logoColor=FFF&style=flat-square)
 <br>
-<p align="center">
-<a href="https://twitter.com/guuslieben" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="guuslieben" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/guus-lieben-99b3b589" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guus-lieben-99b3b589" height="20" width="20" /></a>
-</p>
+![tools](https://img.shields.io/static/v1?label=&message=frameworks:&color=36465D&logoColor=AAA&style=flat-square)
+![spring](https://img.shields.io/static/v1?logo=spring&label=&message=Spring&color=438eaa&logoColor=FFF&style=flat-square)
+![micronaut](https://img.shields.io/static/v1?logo=framework&label=&message=Micronaut&color=438eaa&logoColor=FFF&style=flat-square)
+![angular](https://img.shields.io/static/v1?logo=angular&label=&message=Angular&color=438eaa&logoColor=FFF&style=flat-square)
+<br>
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=36465D&logoColor=AAA&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=438eaa&logoColor=FFF&style=flat-square)
+![docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=438eaa&logoColor=FFF&style=flat-square)
+![azure](https://img.shields.io/static/v1?logo=microsoftazure&label=&message=Azure&color=438eaa&logoColor=FFF&style=flat-square)
+![atlassian](https://img.shields.io/static/v1?logo=atlassian&label=&message=Atlassian%20suite&color=438eaa&logoColor=FFF&style=flat-square)
+![intellif](https://img.shields.io/static/v1?logo=intellijidea&label=&message=IntelliJ%20IDEA&color=438eaa&logoColor=FFF&style=flat-square)
+
+&#187; I’m currently working on several projects, primarily on <a href="https://github.com/Dockbox-OSS/Hartshorn">Hartshorn</a>. Want to know more? Send me a message!
+
+----
+
+<a href="https://twitter.com/guuslieben">
+  <img align="left" alt="Guus' Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+</a>
+<a href="https://www.linkedin.com/in/guuslieben">
+  <img align="left" alt="Guus' LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
+
+| &nbsp;&nbsp;&nbsp; Website : [https://guuslieben.nl](https://guuslieben.nl) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : _See below_ &#8628;
